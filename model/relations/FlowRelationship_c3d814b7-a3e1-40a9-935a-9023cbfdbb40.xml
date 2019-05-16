@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inf o utrudnieniu"
+    id="c3d814b7-a3e1-40a9-935a-9023cbfdbb40">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_30bc10f8-278f-48e9-b6be-c4e34ab9c561.xml#30bc10f8-278f-48e9-b6be-c4e34ab9c561"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_f1dbc474-ff5f-4e8b-af15-cd06dd1a667a.xml#f1dbc474-ff5f-4e8b-af15-cd06dd1a667a"/>
+</archimate:FlowRelationship>
