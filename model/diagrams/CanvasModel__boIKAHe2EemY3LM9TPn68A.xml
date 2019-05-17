@@ -39,13 +39,26 @@
         xsi:type="canvas:CanvasModelSticky"
         id="_boIKA3e2EemY3LM9TPn68A"
         fillColor="#d5ff95"
-        content="MPK"
+        content="Zarząd MPK"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="52"
           y="168"
           width="117"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="e3935ce3-3189-4c4c-84d9-a9cfcf47a29f"
+        fillColor="#d5ff95"
+        content="System płatności internetowych"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="54"
+          y="252"
+          width="114"
           height="63"/>
     </children>
   </children>
@@ -82,13 +95,13 @@
         xsi:type="canvas:CanvasModelSticky"
         id="_boIKBne2EemY3LM9TPn68A"
         fillColor="#d5ff95"
-        content="Poprawianie funkcjonalności"
+        content="Rozwój funkcjonaloności systemu"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="72"
+          x="66"
           y="156"
-          width="97"
+          width="109"
           height="59"/>
     </children>
   </children>
@@ -172,7 +185,7 @@
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="63"
+          x="58"
           y="156"
           width="105"
           height="75"/>
@@ -186,9 +199,9 @@
         textPosition="1">
       <bounds
           x="54"
-          y="240"
+          y="324"
           width="114"
-          height="92"/>
+          height="85"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
@@ -198,8 +211,8 @@
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="60"
-          y="348"
+          x="55"
+          y="432"
           width="111"
           height="61"/>
     </children>
@@ -211,10 +224,23 @@
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="56"
-          y="420"
+          x="51"
+          y="504"
           width="119"
           height="60"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="7656ca55-9afb-4622-ae3e-9de9d10b15e0"
+        fillColor="#ffff95"
+        content="Zakup biletów"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="73"
+          y="240"
+          width="75"
+          height="63"/>
     </children>
   </children>
   <children
@@ -241,10 +267,10 @@
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="53"
-          y="68"
-          width="116"
-          height="89"/>
+          x="84"
+          y="60"
+          width="93"
+          height="61"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
@@ -254,10 +280,36 @@
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="73"
-          y="168"
+          x="12"
+          y="132"
           width="84"
-          height="73"/>
+          height="49"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="cde4d564-5070-4519-b0f6-c2793ab577b5"
+        fillColor="#ffa093"
+        content="Spotkania biznesowe"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="120"
+          y="144"
+          width="75"
+          height="49"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="d13b9978-6a99-4d11-a5fd-6fe0df1bb003"
+        fillColor="#ffa093"
+        content="Service desk"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="72"
+          y="216"
+          width="85"
+          height="49"/>
     </children>
   </children>
   <children
@@ -401,6 +453,19 @@
           width="75"
           height="63"/>
     </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="84012f08-cf2d-4580-ba97-91d87462795a"
+        fillColor="#d5ff95"
+        content="Marketing"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="300"
+          y="84"
+          width="75"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -428,6 +493,45 @@
         textPosition="1">
       <bounds
           x="24"
+          y="72"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="52ba3cf1-1b7d-494e-b4d5-df66b44d3b09"
+        fillColor="#ffff95"
+        content="Prowizja od kupna biletów"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="132"
+          y="72"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="fcefebe1-8de9-41c7-93fd-32758c86131d"
+        fillColor="#ffff95"
+        content="Reklamy"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="240"
+          y="72"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="d085c2ee-e915-4521-9d5a-5ac6245f0c87"
+        fillColor="#ffff95"
+        content="Konto premium"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="348"
           y="72"
           width="75"
           height="63"/>
