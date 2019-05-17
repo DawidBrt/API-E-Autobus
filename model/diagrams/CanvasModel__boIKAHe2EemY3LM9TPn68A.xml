@@ -330,29 +330,29 @@
         height="289"/>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="_boIKFHe2EemY3LM9TPn68A"
-        fillColor="#d5ff95"
+        id="ecf4f1ef-4185-40b8-9ed3-80c3b7c40ce1"
+        fillColor="#ffff95"
         content="Reklamy w środkach komunikacji miejskiej"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="48"
-          y="36"
-          width="121"
+          y="48"
+          width="109"
           height="73"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="_boIKFXe2EemY3LM9TPn68A"
-        fillColor="#d5ff95"
+        id="0d58e737-1f39-41a5-a98f-30f7b7bffefd"
+        fillColor="#ffff95"
         content="Strona internetowa&#xD;&#xA;"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="60"
+          x="54"
           y="144"
           width="97"
-          height="68"/>
+          height="49"/>
     </children>
   </children>
   <children
