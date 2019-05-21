@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lokalizacje"
+    id="1ef9a53a-b6c2-46fc-b1ca-0eece52e55f3">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_fbf1e191-976f-4b1c-ba7a-7b8bf9e95fb2.xml#fbf1e191-976f-4b1c-ba7a-7b8bf9e95fb2"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_bcc61958-7acc-4328-b64a-388c4a98d8b7.xml#bcc61958-7acc-4328-b64a-388c4a98d8b7"/>
+</archimate:FlowRelationship>

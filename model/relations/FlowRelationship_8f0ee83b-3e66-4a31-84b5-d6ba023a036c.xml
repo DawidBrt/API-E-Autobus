@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dane przejazdu"
+    id="8f0ee83b-3e66-4a31-84b5-d6ba023a036c">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_fbf1e191-976f-4b1c-ba7a-7b8bf9e95fb2.xml#fbf1e191-976f-4b1c-ba7a-7b8bf9e95fb2"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_d5930e17-5ae3-4ec5-aafd-d403aa6f9bb0.xml#d5930e17-5ae3-4ec5-aafd-d403aa6f9bb0"/>
+</archimate:FlowRelationship>
