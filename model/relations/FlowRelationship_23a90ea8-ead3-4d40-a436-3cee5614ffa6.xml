@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Trasa"
+    name="rozklad jazdy"
     id="23a90ea8-ead3-4d40-a436-3cee5614ffa6">
   <source
       xsi:type="archimate:BusinessFunction"
