@@ -1,12 +1,11 @@
-<archimate:FlowRelationship
+<archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Rozklad jazdy"
-    id="23a90ea8-ead3-4d40-a436-3cee5614ffa6">
+    id="7176f328-2753-4e83-b04c-d705d12a28f2">
   <source
       xsi:type="archimate:BusinessFunction"
-      href="BusinessFunction_69443e1f-c8d6-4547-b687-2bebfec907bb.xml#69443e1f-c8d6-4547-b687-2bebfec907bb"/>
+      href="BusinessFunction_b9832bb0-87bb-477c-b3de-4f77a7ea96fb.xml#b9832bb0-87bb-477c-b3de-4f77a7ea96fb"/>
   <target
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_4a4c4fbf-0556-47db-9bea-ab855eda410d.xml#4a4c4fbf-0556-47db-9bea-ab855eda410d"/>
-</archimate:FlowRelationship>
+</archimate:CompositionRelationship>

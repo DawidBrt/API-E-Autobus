@@ -13,6 +13,28 @@
         y="492"
         width="552"
         height="204"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="00579e79-0769-4194-b6e4-d03088b583eb"
+        targetConnections="5963a987-d44b-4748-8c7f-9223a88b8f92">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="35823c5f-8b7f-464b-b22f-f17fa2ff5776"
+          source="00579e79-0769-4194-b6e4-d03088b583eb"
+          target="9954df67-d4a5-45e6-abd0-e53a385bb434">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_38a66099-d714-44e2-8324-30904c096ee8.xml#38a66099-d714-44e2-8324-30904c096ee8"/>
+      </sourceConnections>
+      <bounds
+          x="204"
+          y="60"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:CommunicationNetwork"
+          href="CommunicationNetwork_5d396a9c-d1d8-45ed-886b-2cfd7249fe30.xml#5d396a9c-d1d8-45ed-886b-2cfd7249fe30"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -334,28 +356,6 @@
     <archimateElement
         xsi:type="archimate:Device"
         href="Device_5ac4cbe5-23d9-4e0b-a35c-8d7669576826.xml#5ac4cbe5-23d9-4e0b-a35c-8d7669576826"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="00579e79-0769-4194-b6e4-d03088b583eb"
-      targetConnections="5963a987-d44b-4748-8c7f-9223a88b8f92">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="35823c5f-8b7f-464b-b22f-f17fa2ff5776"
-        source="00579e79-0769-4194-b6e4-d03088b583eb"
-        target="9954df67-d4a5-45e6-abd0-e53a385bb434">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_38a66099-d714-44e2-8324-30904c096ee8.xml#38a66099-d714-44e2-8324-30904c096ee8"/>
-    </sourceConnections>
-    <bounds
-        x="900"
-        y="552"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:CommunicationNetwork"
-        href="CommunicationNetwork_5d396a9c-d1d8-45ed-886b-2cfd7249fe30.xml#5d396a9c-d1d8-45ed-886b-2cfd7249fe30"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
