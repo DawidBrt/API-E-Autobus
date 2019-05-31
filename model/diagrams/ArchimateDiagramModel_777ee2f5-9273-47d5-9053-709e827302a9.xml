@@ -295,7 +295,7 @@
     </sourceConnections>
     <bounds
         x="348"
-        y="288"
+        y="276"
         width="457"
         height="109"/>
     <children
@@ -478,8 +478,8 @@
           href="AssociationRelationship_423fd4c9-7b4a-4370-9624-93082f42a4e8.xml#423fd4c9-7b4a-4370-9624-93082f42a4e8"/>
     </sourceConnections>
     <bounds
-        x="250"
-        y="504"
+        x="131"
+        y="516"
         width="174"
         height="99"/>
     <children
@@ -534,8 +534,8 @@
           href="AssociationRelationship_9a34f88f-1eb8-4072-a15d-d34d5934d9c7.xml#9a34f88f-1eb8-4072-a15d-d34d5934d9c7"/>
     </sourceConnections>
     <bounds
-        x="24"
-        y="468"
+        x="327"
+        y="540"
         width="138"
         height="64"/>
     <archimateElement
