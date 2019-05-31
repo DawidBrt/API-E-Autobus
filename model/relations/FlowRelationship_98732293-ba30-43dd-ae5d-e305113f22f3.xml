@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zmiana rozkładu"
+    id="98732293-ba30-43dd-ae5d-e305113f22f3">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_cb73b23e-c8de-4a69-9852-d48d69fd5ef5.xml#cb73b23e-c8de-4a69-9852-d48d69fd5ef5"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_76ff1647-6bc5-48e8-98e0-72a6de289a25.xml#76ff1647-6bc5-48e8-98e0-72a6de289a25"/>
+</archimate:FlowRelationship>

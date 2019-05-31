@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="rozkład jazdy"
+    id="871609b9-fda0-4e37-ab4a-41f17d9c206d">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_69443e1f-c8d6-4547-b687-2bebfec907bb.xml#69443e1f-c8d6-4547-b687-2bebfec907bb"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_50eb3373-40d2-4a19-916e-b52ac8c5d04c.xml#50eb3373-40d2-4a19-916e-b52ac8c5d04c"/>
+</archimate:FlowRelationship>

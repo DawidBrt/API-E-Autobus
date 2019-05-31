@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zakup biletu"
+    id="6a36ff86-17a5-487a-8251-d9d395b783a6">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_e7eed2c8-b83e-44f2-9e1e-1836676fd6f0.xml#e7eed2c8-b83e-44f2-9e1e-1836676fd6f0"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_4a111b09-0981-46b7-a5d1-a3aa00dafac5.xml#4a111b09-0981-46b7-a5d1-a3aa00dafac5"/>
+</archimate:FlowRelationship>

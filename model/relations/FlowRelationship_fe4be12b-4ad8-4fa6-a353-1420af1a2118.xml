@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informacja o bilecie"
+    id="fe4be12b-4ad8-4fa6-a353-1420af1a2118">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_4a111b09-0981-46b7-a5d1-a3aa00dafac5.xml#4a111b09-0981-46b7-a5d1-a3aa00dafac5"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_cbf9a4a0-ec10-434c-a9ad-a316f4e6ac06.xml#cbf9a4a0-ec10-434c-a9ad-a316f4e6ac06"/>
+</archimate:FlowRelationship>
