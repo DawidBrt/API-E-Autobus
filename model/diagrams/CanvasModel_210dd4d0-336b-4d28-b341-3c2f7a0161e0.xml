@@ -43,7 +43,7 @@
       id="a9bc4830-bd6c-4049-b790-cb922bca9b12"
       textAlignment="1"
       borderColor="#000000"
-      content="Sprawa biznesowa: System wspomagania używania i zarządzania komuniacją miejską">
+      content="Sprawa biznesowa: System wspomagania  zarządzania komuniacją miejską">
     <bounds
         x="24"
         y="84"
@@ -55,34 +55,34 @@
       id="21dcf762-7e88-44a7-ba8c-edead17befe8"
       textAlignment="1"
       borderColor="#000000"
-      content="Szanse:&#xD;&#xA;Utworzenie systemu do zoptymalizowania procesu zarządzania komunikacją miejską.&#xD;&#xA;Zwiększenie przychodów z powodu zwiększenia liczby osób kożystających z komunikacji miejskiej.">
+      content="Szanse:&#xD;&#xA;Zoptymalizowanie procesu zarządzania komunikacją miejską.&#xD;&#xA;Zwiększenie liczby pasażerów poprzez wzrost ich zadowalenia i komfortu podróży.&#xD;&#xA;Ograniczenie kosztów.">
     <bounds
         x="24"
         y="144"
         width="673"
-        height="61"/>
+        height="73"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
       id="e96ab9a9-ecde-485e-98a6-ad19eedd9d43"
       textAlignment="1"
       borderColor="#000000"
-      content="Cel:&#xD;&#xA;Maksymalne zoptymalizowanie tras dla uzytkowników.&#xD;&#xA;Usprawneinie komunikiacji z kierowcami.">
+      content="Cel:&#xD;&#xA;Zoptymalizowanie tras dla użytkowników.&#xD;&#xA;Usprawnienie komunikacji z kierowcami.&#xD;&#xA;Optymalizacja rozkładów jazdy">
     <bounds
         x="24"
-        y="204"
+        y="216"
         width="673"
-        height="61"/>
+        height="73"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
       id="b71fd565-c87c-4537-b820-5a0a6f170c32"
       textAlignment="1"
       borderColor="#000000"
-      content="Zakres projektu:&#xD;&#xA;Postawienie serwera przetwarzającegfo dane.&#xD;&#xA;Wykonanie aplikacji mobilnej do interakcji z sustemem przez użytkownika.">
+      content="Zakres projektu:&#xD;&#xA;Zaimplementowanie serwera przetwarzającego dane o przejazdach i wyznaczającego optymalne trasy dla pasażerów&#xD;&#xA;Wykonanie aplikacji mobilnej dla pasażerów.">
     <bounds
         x="24"
-        y="264"
+        y="288"
         width="673"
         height="61"/>
   </children>
@@ -94,7 +94,7 @@
       content="Mistrz projektu:&#xD;&#xA;&#xD;&#xA;Sponsor projektu:&#xD;&#xA;&#xD;&#xA;Menadżer projektu:&#xD;&#xA;&#xD;&#xA;Komitet sterujący:&#xD;&#xA;">
     <bounds
         x="24"
-        y="324"
+        y="348"
         width="337"
         height="145"/>
   </children>
@@ -106,7 +106,7 @@
       content="Inni interesariusze:&#xD;&#xA;">
     <bounds
         x="360"
-        y="324"
+        y="348"
         width="337"
         height="145"/>
   </children>
@@ -118,7 +118,7 @@
       content="Szacowane oszczędności finansowe:&#xD;&#xA;">
     <bounds
         x="24"
-        y="468"
+        y="492"
         width="337"
         height="37"/>
   </children>
@@ -130,7 +130,7 @@
       content="Realne oszczędności (po wykonaniu projektu):">
     <bounds
         x="360"
-        y="468"
+        y="492"
         width="337"
         height="37"/>
   </children>
@@ -142,7 +142,7 @@
       content="Notatki i wnioski:">
     <bounds
         x="360"
-        y="504"
+        y="528"
         width="337"
         height="205"/>
   </children>
@@ -154,7 +154,7 @@
       content="Wstępny plan">
     <bounds
         x="24"
-        y="504"
+        y="528"
         width="121"
         height="37"/>
   </children>
@@ -166,7 +166,7 @@
       content="Planowana data zakończenia&#xD;&#xA;">
     <bounds
         x="144"
-        y="504"
+        y="528"
         width="121"
         height="37"/>
   </children>
@@ -178,7 +178,7 @@
       content="Data zakończenia">
     <bounds
         x="264"
-        y="504"
+        y="528"
         width="97"
         height="37"/>
   </children>
@@ -190,7 +190,7 @@
       content="Początek">
     <bounds
         x="24"
-        y="540"
+        y="564"
         width="121"
         height="25"/>
   </children>
@@ -201,7 +201,7 @@
       borderColor="#000000">
     <bounds
         x="144"
-        y="540"
+        y="564"
         width="121"
         height="25"/>
   </children>
@@ -212,7 +212,7 @@
       borderColor="#000000">
     <bounds
         x="264"
-        y="540"
+        y="564"
         width="97"
         height="25"/>
   </children>
@@ -224,7 +224,7 @@
       content="Zdefiniowanie">
     <bounds
         x="24"
-        y="564"
+        y="588"
         width="121"
         height="25"/>
   </children>
@@ -235,7 +235,7 @@
       borderColor="#000000">
     <bounds
         x="144"
-        y="564"
+        y="588"
         width="121"
         height="25"/>
   </children>
@@ -246,7 +246,7 @@
       borderColor="#000000">
     <bounds
         x="264"
-        y="564"
+        y="588"
         width="97"
         height="25"/>
   </children>
@@ -258,7 +258,7 @@
       content="Pomiary">
     <bounds
         x="24"
-        y="588"
+        y="612"
         width="121"
         height="25"/>
   </children>
@@ -269,7 +269,7 @@
       borderColor="#000000">
     <bounds
         x="144"
-        y="588"
+        y="612"
         width="121"
         height="25"/>
   </children>
@@ -280,7 +280,7 @@
       borderColor="#000000">
     <bounds
         x="264"
-        y="588"
+        y="612"
         width="97"
         height="25"/>
   </children>
@@ -292,7 +292,7 @@
       content="Analiza">
     <bounds
         x="24"
-        y="612"
+        y="636"
         width="121"
         height="25"/>
   </children>
@@ -303,7 +303,7 @@
       borderColor="#000000">
     <bounds
         x="144"
-        y="612"
+        y="636"
         width="121"
         height="25"/>
   </children>
@@ -314,7 +314,7 @@
       borderColor="#000000">
     <bounds
         x="264"
-        y="612"
+        y="636"
         width="97"
         height="25"/>
   </children>
@@ -326,7 +326,7 @@
       content="Ulepszenia">
     <bounds
         x="24"
-        y="636"
+        y="660"
         width="121"
         height="25"/>
   </children>
@@ -337,7 +337,7 @@
       borderColor="#000000">
     <bounds
         x="144"
-        y="636"
+        y="660"
         width="121"
         height="25"/>
   </children>
@@ -348,7 +348,7 @@
       borderColor="#000000">
     <bounds
         x="264"
-        y="636"
+        y="660"
         width="97"
         height="25"/>
   </children>
@@ -360,7 +360,7 @@
       content="Kontrola">
     <bounds
         x="24"
-        y="660"
+        y="684"
         width="121"
         height="25"/>
   </children>
@@ -371,7 +371,7 @@
       borderColor="#000000">
     <bounds
         x="144"
-        y="660"
+        y="684"
         width="121"
         height="25"/>
   </children>
@@ -382,7 +382,7 @@
       borderColor="#000000">
     <bounds
         x="264"
-        y="660"
+        y="684"
         width="97"
         height="25"/>
   </children>
@@ -394,7 +394,7 @@
       content="Koniec">
     <bounds
         x="24"
-        y="684"
+        y="708"
         width="121"
         height="25"/>
   </children>
@@ -405,7 +405,7 @@
       borderColor="#000000">
     <bounds
         x="144"
-        y="684"
+        y="708"
         width="121"
         height="25"/>
   </children>
@@ -416,7 +416,7 @@
       borderColor="#000000">
     <bounds
         x="264"
-        y="684"
+        y="708"
         width="97"
         height="25"/>
   </children>
