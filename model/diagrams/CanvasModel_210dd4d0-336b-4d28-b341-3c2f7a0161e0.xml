@@ -91,7 +91,7 @@
       id="ecc190e7-06cf-40ac-b81b-0a9a1a3a397f"
       textAlignment="1"
       borderColor="#000000"
-      content="Mistrz projektu:&#xD;&#xA;&#xD;&#xA;Sponsor projektu:&#xD;&#xA;&#xD;&#xA;Menadżer projektu:&#xD;&#xA;&#xD;&#xA;Komitet sterujący:&#xD;&#xA;">
+      content="Mistrz projektu: Jan Kowalski&#xD;&#xA;&#xD;&#xA;Sponsor projektu: Zarząd MPK&#xD;&#xA;&#xD;&#xA;Menadżer projektu: Jan Kowalski&#xD;&#xA;&#xD;&#xA;Komitet sterujący: Jan Kowalski&#xD;&#xA;">
     <bounds
         x="24"
         y="348"
@@ -103,7 +103,7 @@
       id="288cfcaa-218d-435f-9d56-620ccdf08c5d"
       textAlignment="1"
       borderColor="#000000"
-      content="Inni interesariusze:&#xD;&#xA;">
+      content="Inni interesariusze:&#xD;&#xA;Kierowcy MPK&#xD;&#xA;Pasażerowie&#xD;&#xA;Miasto Kraków&#xD;&#xA;">
     <bounds
         x="360"
         y="348"
@@ -115,7 +115,7 @@
       id="9f37d217-0bb6-4c8c-859d-44e78fe5cebe"
       textAlignment="1"
       borderColor="#000000"
-      content="Szacowane oszczędności finansowe:&#xD;&#xA;">
+      content="Szacowane oszczędności finansowe:&#xD;&#xA;10000/miesiąc">
     <bounds
         x="24"
         y="492"
@@ -198,7 +198,8 @@
       xsi:type="canvas:CanvasModelBlock"
       id="aa1ee8f2-0af6-4700-984a-319c2dbd0063"
       textAlignment="1"
-      borderColor="#000000">
+      borderColor="#000000"
+      content="30-04-2019">
     <bounds
         x="144"
         y="564"
@@ -209,7 +210,8 @@
       xsi:type="canvas:CanvasModelBlock"
       id="45155caf-2fdb-4133-9adc-99ec5e77e68c"
       textAlignment="1"
-      borderColor="#000000">
+      borderColor="#000000"
+      content="30-05-2019">
     <bounds
         x="264"
         y="564"
@@ -232,7 +234,8 @@
       xsi:type="canvas:CanvasModelBlock"
       id="4e6fb42a-86d0-4107-9753-57f65703541d"
       textAlignment="1"
-      borderColor="#000000">
+      borderColor="#000000"
+      content="31-05-2019">
     <bounds
         x="144"
         y="588"
@@ -243,7 +246,8 @@
       xsi:type="canvas:CanvasModelBlock"
       id="d838c51a-70e8-4639-8336-c80bf0e98b85"
       textAlignment="1"
-      borderColor="#000000">
+      borderColor="#000000"
+      content="20-06-2019">
     <bounds
         x="264"
         y="588"
@@ -266,7 +270,8 @@
       xsi:type="canvas:CanvasModelBlock"
       id="824822b4-13f2-4269-9f11-0c58a8ef2d71"
       textAlignment="1"
-      borderColor="#000000">
+      borderColor="#000000"
+      content="21-06-2019">
     <bounds
         x="144"
         y="612"
@@ -277,7 +282,8 @@
       xsi:type="canvas:CanvasModelBlock"
       id="7935b4bc-7091-4806-a833-051428121869"
       textAlignment="1"
-      borderColor="#000000">
+      borderColor="#000000"
+      content="14-07-2019">
     <bounds
         x="264"
         y="612"
@@ -300,7 +306,8 @@
       xsi:type="canvas:CanvasModelBlock"
       id="a232ae37-e78d-441f-8e37-0320724f3549"
       textAlignment="1"
-      borderColor="#000000">
+      borderColor="#000000"
+      content="15-07-2019">
     <bounds
         x="144"
         y="636"
@@ -311,7 +318,8 @@
       xsi:type="canvas:CanvasModelBlock"
       id="fb944b8c-d5a6-4e5d-97bf-eb1999e8ed14"
       textAlignment="1"
-      borderColor="#000000">
+      borderColor="#000000"
+      content="22-08-2019">
     <bounds
         x="264"
         y="636"
@@ -334,7 +342,8 @@
       xsi:type="canvas:CanvasModelBlock"
       id="eb8cce06-33b3-4537-88df-5619871e0cc8"
       textAlignment="1"
-      borderColor="#000000">
+      borderColor="#000000"
+      content="23-08-2019">
     <bounds
         x="144"
         y="660"
@@ -345,7 +354,8 @@
       xsi:type="canvas:CanvasModelBlock"
       id="1b403b1c-639b-46c8-af8f-0ac4a00ee91c"
       textAlignment="1"
-      borderColor="#000000">
+      borderColor="#000000"
+      content="30-09-2019">
     <bounds
         x="264"
         y="660"
@@ -368,7 +378,8 @@
       xsi:type="canvas:CanvasModelBlock"
       id="3cc93736-867c-421d-ae81-75be5962da7d"
       textAlignment="1"
-      borderColor="#000000">
+      borderColor="#000000"
+      content="01-10-2019">
     <bounds
         x="144"
         y="684"
@@ -379,7 +390,8 @@
       xsi:type="canvas:CanvasModelBlock"
       id="2032416c-c6b5-45fc-a4f0-1e07e196a0df"
       textAlignment="1"
-      borderColor="#000000">
+      borderColor="#000000"
+      content="11-10-2019">
     <bounds
         x="264"
         y="684"
@@ -402,7 +414,8 @@
       xsi:type="canvas:CanvasModelBlock"
       id="eaaa5cc1-83ca-4241-8860-a97c16f62dc7"
       textAlignment="1"
-      borderColor="#000000">
+      borderColor="#000000"
+      content="12-10-2019">
     <bounds
         x="144"
         y="708"
@@ -413,7 +426,8 @@
       xsi:type="canvas:CanvasModelBlock"
       id="86fe3877-5c67-49d3-b365-df8c9ba7fb50"
       textAlignment="1"
-      borderColor="#000000">
+      borderColor="#000000"
+      content="12-10-2019">
     <bounds
         x="264"
         y="708"
