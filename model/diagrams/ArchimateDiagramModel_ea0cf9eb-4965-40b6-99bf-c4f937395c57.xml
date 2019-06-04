@@ -8,8 +8,7 @@
       id="cd84241f-a34f-4d69-999d-c0582cda27db"
       targetConnections="19a2fe48-a8ea-4a1b-a0cb-5ba3eca17531 4a258bd9-82f7-4f12-adf7-adca65659287">
     <bounds
-        x="399"
-        y="24"
+        x="192"
         width="166"
         height="49"/>
     <archimateElement
@@ -40,8 +39,8 @@
           href="RealizationRelationship_df797082-6194-45f9-81db-7c2eeac20c91.xml#df797082-6194-45f9-81db-7c2eeac20c91"/>
     </sourceConnections>
     <bounds
-        x="564"
-        y="157"
+        x="384"
+        y="133"
         width="148"
         height="49"/>
     <archimateElement
@@ -71,8 +70,8 @@
           href="RealizationRelationship_b121649f-49bc-4aab-a9cd-68528db85eb6.xml#b121649f-49bc-4aab-a9cd-68528db85eb6"/>
     </sourceConnections>
     <bounds
-        x="288"
-        y="158"
+        x="33"
+        y="134"
         width="145"
         height="47"/>
     <archimateElement
@@ -102,9 +101,9 @@
           href="AssignmentRelationship_87bdecac-de7d-4786-85de-fb3125a82896.xml#87bdecac-de7d-4786-85de-fb3125a82896"/>
     </sourceConnections>
     <bounds
-        x="696"
-        y="303"
-        width="133"
+        x="480"
+        y="279"
+        width="169"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Resource"
@@ -124,7 +123,7 @@
           endX="-74"
           endY="83"/>
       <bendpoints
-          startX="42"
+          startX="91"
           startY="-67"
           endX="-26"
           endY="83"/>
@@ -133,9 +132,9 @@
           href="AssignmentRelationship_a2501703-4103-4456-a99c-8565836b1fa3.xml#a2501703-4103-4456-a99c-8565836b1fa3"/>
     </sourceConnections>
     <bounds
-        x="480"
-        y="302"
-        width="181"
+        x="225"
+        y="278"
+        width="232"
         height="58"/>
     <archimateElement
         xsi:type="archimate:Resource"
@@ -154,9 +153,8 @@
           href="AssignmentRelationship_16dcbd7c-51c6-479b-ae8d-ea0219d7e2ce.xml#16dcbd7c-51c6-479b-ae8d-ea0219d7e2ce"/>
     </sourceConnections>
     <bounds
-        x="301"
-        y="303"
-        width="120"
+        y="279"
+        width="178"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Resource"

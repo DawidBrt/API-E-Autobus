@@ -16,8 +16,8 @@
           href="FlowRelationship_303610aa-8a62-4e12-986a-79735838eb67.xml#303610aa-8a62-4e12-986a-79735838eb67"/>
     </sourceConnections>
     <bounds
-        x="761"
-        y="432"
+        x="737"
+        y="348"
         width="120"
         height="229"/>
     <archimateElement
@@ -38,8 +38,7 @@
           href="FlowRelationship_c14e6588-2fb6-4cbf-be08-c975ac2990a1.xml#c14e6588-2fb6-4cbf-be08-c975ac2990a1"/>
     </sourceConnections>
     <bounds
-        x="761"
-        y="84"
+        x="737"
         width="120"
         height="325"/>
     <archimateElement
@@ -69,10 +68,8 @@
           href="FlowRelationship_c3d814b7-a3e1-40a9-935a-9023cbfdbb40.xml#c3d814b7-a3e1-40a9-935a-9023cbfdbb40"/>
     </sourceConnections>
     <bounds
-        x="24"
-        y="55"
         width="121"
-        height="234"/>
+        height="205"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_30bc10f8-278f-48e9-b6be-c4e34ab9c561.xml#30bc10f8-278f-48e9-b6be-c4e34ab9c561"/>
@@ -100,8 +97,7 @@
           href="FlowRelationship_7c8e4c19-7dfd-4db1-9277-2bc262ebf889.xml#7c8e4c19-7dfd-4db1-9277-2bc262ebf889"/>
     </sourceConnections>
     <bounds
-        x="24"
-        y="300"
+        y="216"
         width="120"
         height="361"/>
     <archimateElement
@@ -202,8 +198,7 @@
           href="AssignmentRelationship_0a46b9aa-c457-4beb-b5c3-de76c44e451b.xml#0a46b9aa-c457-4beb-b5c3-de76c44e451b"/>
     </sourceConnections>
     <bounds
-        x="252"
-        y="84"
+        x="228"
         width="420"
         height="589"/>
     <children

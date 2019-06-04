@@ -8,8 +8,9 @@
       id="f29b22b3-74a8-4815-b2c7-8785f511b92b"
       targetConnections="82cdc74c-6812-4876-8094-8f2bdcfe0035 cc4dc403-7efd-4c18-8ec3-b560b6b70532 1f06142d-9dd2-4230-8297-d14a01a04b80">
     <bounds
-        y="480"
-        width="253"
+        x="12"
+        y="468"
+        width="229"
         height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -65,8 +66,7 @@
           href="FlowRelationship_6ebe8c24-8c5b-4b3e-8f3b-ccb8b49ac574.xml#6ebe8c24-8c5b-4b3e-8f3b-ccb8b49ac574"/>
     </sourceConnections>
     <bounds
-        x="264"
-        y="12"
+        x="276"
         width="445"
         height="541"/>
     <children
@@ -74,7 +74,7 @@
         id="e1d65db1-d88d-4b5d-9cda-50090d7ca3c3"
         targetConnections="0b2571fb-cf30-463d-a53f-16483de64a36 80077df7-cae5-497b-88b5-52c6a86298fc">
       <bounds
-          x="96"
+          x="132"
           y="276"
           width="241"
           height="37"/>
@@ -343,8 +343,8 @@
           href="AssignmentRelationship_7885bea7-cae2-406f-a9f7-4ff0e3552d8a.xml#7885bea7-cae2-406f-a9f7-4ff0e3552d8a"/>
     </sourceConnections>
     <bounds
-        y="96"
-        width="253"
+        y="84"
+        width="265"
         height="241"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -366,9 +366,9 @@
       </sourceConnections>
       <bounds
           x="12"
-          y="132"
+          y="156"
           width="109"
-          height="85"/>
+          height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_3ebbfd48-cb96-4933-9fdd-5ca5a96cb072.xml#3ebbfd48-cb96-4933-9fdd-5ca5a96cb072"/>
@@ -443,8 +443,8 @@
           href="AssignmentRelationship_3685547c-18c6-4d7e-8dc3-2b0d257b7e77.xml#3685547c-18c6-4d7e-8dc3-2b0d257b7e77"/>
     </sourceConnections>
     <bounds
-        x="780"
-        y="24"
+        x="427"
+        y="564"
         width="120"
         height="55"/>
     <archimateElement
@@ -464,8 +464,8 @@
           href="AssignmentRelationship_1cdf808f-acd7-47e8-a169-8e4e6bbfe23f.xml#1cdf808f-acd7-47e8-a169-8e4e6bbfe23f"/>
     </sourceConnections>
     <bounds
-        x="12"
-        y="576"
+        x="73"
+        y="564"
         width="120"
         height="55"/>
     <archimateElement

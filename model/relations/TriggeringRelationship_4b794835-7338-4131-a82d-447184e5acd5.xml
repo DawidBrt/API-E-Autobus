@@ -1,12 +1,11 @@
-<archimate:FlowRelationship
+<archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Zakup biletu"
-    id="6a36ff86-17a5-487a-8251-d9d395b783a6">
+    id="4b794835-7338-4131-a82d-447184e5acd5">
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_2f4cfbda-57cd-4ba1-97ce-3c02587ea6f6.xml#2f4cfbda-57cd-4ba1-97ce-3c02587ea6f6"/>
   <target
-      xsi:type="archimate:BusinessFunction"
-      href="BusinessFunction_4a111b09-0981-46b7-a5d1-a3aa00dafac5.xml#4a111b09-0981-46b7-a5d1-a3aa00dafac5"/>
-</archimate:FlowRelationship>
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_cbf9a4a0-ec10-434c-a9ad-a316f4e6ac06.xml#cbf9a4a0-ec10-434c-a9ad-a316f4e6ac06"/>
+</archimate:TriggeringRelationship>
