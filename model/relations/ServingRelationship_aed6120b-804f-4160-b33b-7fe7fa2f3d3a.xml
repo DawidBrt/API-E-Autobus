@@ -1,11 +1,12 @@
-<archimate:AssociationRelationship
+<archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="07b17fe1-db4a-4d3d-a79c-d2dd2b89839f">
+    name="lokalizacja"
+    id="aed6120b-804f-4160-b33b-7fe7fa2f3d3a">
   <source
       xsi:type="archimate:Equipment"
       href="Equipment_73aabc4c-8c50-4018-8508-6040e2c0a786.xml#73aabc4c-8c50-4018-8508-6040e2c0a786"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_28aefca9-fed3-42e3-953d-bff557400cf5.xml#28aefca9-fed3-42e3-953d-bff557400cf5"/>
-</archimate:AssociationRelationship>
+      href="ApplicationComponent_c4414fed-5b8e-4c1a-b9fc-30daa005b9ee.xml#c4414fed-5b8e-4c1a-b9fc-30daa005b9ee"/>
+</archimate:ServingRelationship>
