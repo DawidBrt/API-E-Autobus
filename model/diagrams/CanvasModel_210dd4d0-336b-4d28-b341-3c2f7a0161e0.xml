@@ -11,9 +11,7 @@
       borderColor="#000000"
       content="Karta Projektu">
     <bounds
-        x="24"
-        y="24"
-        width="673"
+        width="625"
         height="25"/>
   </children>
   <children
@@ -23,10 +21,9 @@
       borderColor="#000000"
       content="Nazwa projektu: E-autobus">
     <bounds
-        x="24"
-        y="48"
-        width="673"
-        height="37"/>
+        y="24"
+        width="625"
+        height="25"/>
     <children
         xsi:type="canvas:CanvasModelBlock"
         id="98e4a5e6-7ff3-4ec3-807b-25ac95645320"
@@ -45,10 +42,9 @@
       borderColor="#000000"
       content="Sprawa biznesowa: System wspomagania  zarządzania komuniacją miejską">
     <bounds
-        x="24"
-        y="84"
-        width="673"
-        height="61"/>
+        y="48"
+        width="625"
+        height="25"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -57,9 +53,8 @@
       borderColor="#000000"
       content="Szanse:&#xD;&#xA;Zoptymalizowanie procesu zarządzania komunikacją miejską.&#xD;&#xA;Zwiększenie liczby pasażerów poprzez wzrost ich zadowalenia i komfortu podróży.&#xD;&#xA;Ograniczenie kosztów.">
     <bounds
-        x="24"
-        y="144"
-        width="673"
+        y="72"
+        width="625"
         height="73"/>
   </children>
   <children
@@ -69,9 +64,8 @@
       borderColor="#000000"
       content="Cel:&#xD;&#xA;Zoptymalizowanie tras dla użytkowników.&#xD;&#xA;Usprawnienie komunikacji z kierowcami.&#xD;&#xA;Optymalizacja rozkładów jazdy">
     <bounds
-        x="24"
-        y="216"
-        width="673"
+        y="144"
+        width="625"
         height="73"/>
   </children>
   <children
@@ -79,11 +73,10 @@
       id="b71fd565-c87c-4537-b820-5a0a6f170c32"
       textAlignment="1"
       borderColor="#000000"
-      content="Zakres projektu:&#xD;&#xA;Zaimplementowanie serwera przetwarzającego dane o przejazdach i wyznaczającego optymalne trasy dla pasażerów&#xD;&#xA;Wykonanie aplikacji mobilnej dla pasażerów.">
+      content="Zakres projektu:&#xD;&#xA;Zaimplementowanie serwera przetwarzającego dane o przejazdach i wyznaczającego optymalne trasy dla pasażerów.&#xD;&#xA;Wykonanie aplikacji mobilnej dla pasażerów.">
     <bounds
-        x="24"
-        y="288"
-        width="673"
+        y="216"
+        width="625"
         height="61"/>
   </children>
   <children
@@ -91,36 +84,34 @@
       id="ecc190e7-06cf-40ac-b81b-0a9a1a3a397f"
       textAlignment="1"
       borderColor="#000000"
-      content="Mistrz projektu: Jan Kowalski&#xD;&#xA;&#xD;&#xA;Sponsor projektu: Zarząd MPK&#xD;&#xA;&#xD;&#xA;Menadżer projektu: Jan Kowalski&#xD;&#xA;&#xD;&#xA;Komitet sterujący: Jan Kowalski&#xD;&#xA;">
+      content="Mistrz projektu: Jan Kowalski&#xD;&#xA;Sponsor projektu: Zarząd MPK&#xD;&#xA;Menadżer projektu: Jan Kowalski&#xD;&#xA;Komitet sterujący: Jan Kowalski">
     <bounds
-        x="24"
-        y="348"
+        y="276"
         width="337"
-        height="145"/>
+        height="73"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
       id="288cfcaa-218d-435f-9d56-620ccdf08c5d"
       textAlignment="1"
       borderColor="#000000"
-      content="Inni interesariusze:&#xD;&#xA;Kierowcy MPK&#xD;&#xA;Pasażerowie&#xD;&#xA;Miasto Kraków&#xD;&#xA;">
+      content="Inni interesariusze:&#xD;&#xA;Kierowcy MPK&#xD;&#xA;Pasażerowie&#xD;&#xA;Miasto Kraków">
     <bounds
-        x="360"
-        y="348"
-        width="337"
-        height="145"/>
+        x="336"
+        y="276"
+        width="289"
+        height="73"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
       id="9f37d217-0bb6-4c8c-859d-44e78fe5cebe"
       textAlignment="1"
       borderColor="#000000"
-      content="Szacowane oszczędności finansowe:&#xD;&#xA;10000/miesiąc">
+      content="Szacowane oszczędności finansowe: 10000/miesiąc">
     <bounds
-        x="24"
-        y="492"
+        y="348"
         width="337"
-        height="37"/>
+        height="25"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -129,10 +120,10 @@
       borderColor="#000000"
       content="Realne oszczędności (po wykonaniu projektu):">
     <bounds
-        x="360"
-        y="492"
-        width="337"
-        height="37"/>
+        x="336"
+        y="348"
+        width="289"
+        height="25"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -141,9 +132,9 @@
       borderColor="#000000"
       content="Notatki i wnioski:">
     <bounds
-        x="360"
-        y="528"
-        width="337"
+        x="336"
+        y="372"
+        width="289"
         height="205"/>
   </children>
   <children
@@ -153,8 +144,7 @@
       borderColor="#000000"
       content="Wstępny plan">
     <bounds
-        x="24"
-        y="528"
+        y="372"
         width="121"
         height="37"/>
   </children>
@@ -165,8 +155,8 @@
       borderColor="#000000"
       content="Planowana data zakończenia&#xD;&#xA;">
     <bounds
-        x="144"
-        y="528"
+        x="120"
+        y="372"
         width="121"
         height="37"/>
   </children>
@@ -177,8 +167,8 @@
       borderColor="#000000"
       content="Data zakończenia">
     <bounds
-        x="264"
-        y="528"
+        x="240"
+        y="372"
         width="97"
         height="37"/>
   </children>
@@ -189,8 +179,7 @@
       borderColor="#000000"
       content="Początek">
     <bounds
-        x="24"
-        y="564"
+        y="408"
         width="121"
         height="25"/>
   </children>
@@ -201,8 +190,8 @@
       borderColor="#000000"
       content="30-04-2019">
     <bounds
-        x="144"
-        y="564"
+        x="120"
+        y="408"
         width="121"
         height="25"/>
   </children>
@@ -213,8 +202,8 @@
       borderColor="#000000"
       content="30-05-2019">
     <bounds
-        x="264"
-        y="564"
+        x="240"
+        y="408"
         width="97"
         height="25"/>
   </children>
@@ -225,8 +214,7 @@
       borderColor="#000000"
       content="Zdefiniowanie">
     <bounds
-        x="24"
-        y="588"
+        y="432"
         width="121"
         height="25"/>
   </children>
@@ -237,8 +225,8 @@
       borderColor="#000000"
       content="31-05-2019">
     <bounds
-        x="144"
-        y="588"
+        x="120"
+        y="432"
         width="121"
         height="25"/>
   </children>
@@ -249,8 +237,8 @@
       borderColor="#000000"
       content="20-06-2019">
     <bounds
-        x="264"
-        y="588"
+        x="240"
+        y="432"
         width="97"
         height="25"/>
   </children>
@@ -261,8 +249,7 @@
       borderColor="#000000"
       content="Pomiary">
     <bounds
-        x="24"
-        y="612"
+        y="456"
         width="121"
         height="25"/>
   </children>
@@ -273,8 +260,8 @@
       borderColor="#000000"
       content="21-06-2019">
     <bounds
-        x="144"
-        y="612"
+        x="120"
+        y="456"
         width="121"
         height="25"/>
   </children>
@@ -285,8 +272,8 @@
       borderColor="#000000"
       content="14-07-2019">
     <bounds
-        x="264"
-        y="612"
+        x="240"
+        y="456"
         width="97"
         height="25"/>
   </children>
@@ -297,8 +284,7 @@
       borderColor="#000000"
       content="Analiza">
     <bounds
-        x="24"
-        y="636"
+        y="480"
         width="121"
         height="25"/>
   </children>
@@ -309,8 +295,8 @@
       borderColor="#000000"
       content="15-07-2019">
     <bounds
-        x="144"
-        y="636"
+        x="120"
+        y="480"
         width="121"
         height="25"/>
   </children>
@@ -321,8 +307,8 @@
       borderColor="#000000"
       content="22-08-2019">
     <bounds
-        x="264"
-        y="636"
+        x="240"
+        y="480"
         width="97"
         height="25"/>
   </children>
@@ -333,8 +319,7 @@
       borderColor="#000000"
       content="Ulepszenia">
     <bounds
-        x="24"
-        y="660"
+        y="504"
         width="121"
         height="25"/>
   </children>
@@ -345,8 +330,8 @@
       borderColor="#000000"
       content="23-08-2019">
     <bounds
-        x="144"
-        y="660"
+        x="120"
+        y="504"
         width="121"
         height="25"/>
   </children>
@@ -357,8 +342,8 @@
       borderColor="#000000"
       content="30-09-2019">
     <bounds
-        x="264"
-        y="660"
+        x="240"
+        y="504"
         width="97"
         height="25"/>
   </children>
@@ -369,8 +354,7 @@
       borderColor="#000000"
       content="Kontrola">
     <bounds
-        x="24"
-        y="684"
+        y="528"
         width="121"
         height="25"/>
   </children>
@@ -381,8 +365,8 @@
       borderColor="#000000"
       content="01-10-2019">
     <bounds
-        x="144"
-        y="684"
+        x="120"
+        y="528"
         width="121"
         height="25"/>
   </children>
@@ -393,8 +377,8 @@
       borderColor="#000000"
       content="11-10-2019">
     <bounds
-        x="264"
-        y="684"
+        x="240"
+        y="528"
         width="97"
         height="25"/>
   </children>
@@ -405,8 +389,7 @@
       borderColor="#000000"
       content="Koniec">
     <bounds
-        x="24"
-        y="708"
+        y="552"
         width="121"
         height="25"/>
   </children>
@@ -417,8 +400,8 @@
       borderColor="#000000"
       content="12-10-2019">
     <bounds
-        x="144"
-        y="708"
+        x="120"
+        y="552"
         width="121"
         height="25"/>
   </children>
@@ -429,8 +412,8 @@
       borderColor="#000000"
       content="12-10-2019">
     <bounds
-        x="264"
-        y="708"
+        x="240"
+        y="552"
         width="97"
         height="25"/>
   </children>
